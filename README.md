@@ -29,7 +29,6 @@ Before you get started, make sure you have:
 
 ```bash
 git clone https://github.com/itsShashankSrivastava/Linkedin-Scrap-MCP-Server
-cd linkedin_profile_scraper
 ```
 
 ### **2. Install dependencies:**
